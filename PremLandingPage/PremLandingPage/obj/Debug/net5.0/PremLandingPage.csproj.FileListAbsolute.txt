@@ -28,6 +28,7 @@ C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\Pre
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\bin\Debug\net5.0\wwwroot\_framework\MudBlazor.dll.gz
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
@@ -223,6 +224,7 @@ C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\Pre
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\bin\Debug\net5.0\wwwroot\_framework\MudBlazor.dll
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
@@ -396,7 +398,6 @@ C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\Pre
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.7.js
-C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\obj\Debug\net5.0\PremLandingPage.csprojAssemblyReference.cache
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\obj\Debug\net5.0\PremLandingPage.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\obj\Debug\net5.0\PremLandingPage.AssemblyInfoInputs.cache
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\obj\Debug\net5.0\PremLandingPage.AssemblyInfo.cs
@@ -446,6 +447,7 @@ C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\Pre
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\obj\Debug\net5.0\build-gz\qKYT8jjw.gz
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\obj\Debug\net5.0\build-gz\d+0TmSPd.gz
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\obj\Debug\net5.0\build-gz\aHinbSlk.gz
+C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\obj\Debug\net5.0\build-gz\m5Z5Yyt0.gz
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\obj\Debug\net5.0\build-gz\y1rMnBe9.gz
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\obj\Debug\net5.0\build-gz\Hfyk479g.gz
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\obj\Debug\net5.0\build-gz\R6RTVS5w.gz
@@ -631,3 +633,4 @@ C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\Pre
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\obj\Debug\net5.0\PremLandingPage.dll
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\obj\Debug\net5.0\ref\PremLandingPage.dll
 C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\obj\Debug\net5.0\PremLandingPage.pdb
+C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\obj\Debug\net5.0\PremLandingPage.csprojAssemblyReference.cache

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Aqk8/fw693yM7dsRv5xxWywF4ztlSpQE1uH8GABQF3MjWO64pcPjU0ShCSxPvVGLaVaXK+2Jyzi9WsnS452sBA==",
+  "dgSpecHash": "qZGP2G/WbsujkWLH0y0rbqE46Gyptmy2QH/BSc4rSTDn3obg2m247EwjlNWGNKIHA24Q0xsNiyDWpZAR44lDjw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Franco\\Documents\\GitHub\\Premium Landing Page Blazor\\PremLandingPage\\PremLandingPage\\PremLandingPage.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,7 @@
     "C:\\Users\\Franco\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\Franco\\.nuget\\packages\\microsoft.jsinterop\\5.0.7\\microsoft.jsinterop.5.0.7.nupkg.sha512",
     "C:\\Users\\Franco\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.7\\microsoft.jsinterop.webassembly.5.0.7.nupkg.sha512",
+    "C:\\Users\\Franco\\.nuget\\packages\\mudblazor\\5.0.14\\mudblazor.5.0.14.nupkg.sha512",
     "C:\\Users\\Franco\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
     "C:\\Users\\Franco\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
     "C:\\Users\\Franco\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.7\\microsoft.netcore.app.runtime.browser-wasm.5.0.7.nupkg.sha512"

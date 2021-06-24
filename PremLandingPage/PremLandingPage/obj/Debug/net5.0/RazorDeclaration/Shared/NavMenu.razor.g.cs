@@ -82,6 +82,13 @@ using PremLandingPage.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\_Imports.razor"
+using MudBlazor;
+
+#line default
+#line hidden
+#nullable disable
     public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -90,7 +97,7 @@ using PremLandingPage.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\Shared\NavMenu.razor"
+#line 21 "C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

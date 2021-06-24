@@ -1,29 +1,22 @@
-﻿<div class="top-row pl-4 navbar navbar-dark">
-    <a class="navbar-brand" href="">PremLandingPage</a>
-    <button class="navbar-toggler" @onclick="ToggleNavMenu">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-</div>
+﻿
+<header>
+    <div class="nav-container">
+        <img class="nav-logo" src="/Images/YourLogo.png" alt="Logo">
 
-<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
-    <ul class="nav flex-column">
-        <li class="nav-item px-3">
-            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                <span class="oi oi-home" aria-hidden="true"></span> Home
-            </NavLink>
-        </li>
-        <li class="nav-item px-3">
-            <NavLink class="nav-link" href="counter">
-                <span class="oi oi-plus" aria-hidden="true"></span> Counter
-            </NavLink>
-        </li>
-        <li class="nav-item px-3">
-            <NavLink class="nav-link" href="fetchdata">
-                <span class="oi oi-list-rich" aria-hidden="true"></span> Fetch data
-            </NavLink>
-        </li>
-    </ul>
-</div>
+        <nav>
+            <ul class="row">
+                <li class="mr-4"><button class="oi oi-home" onclick="location.href='#Home'"><span class="ml-3">Home</span></button></li>
+                <li class="mr-4"><button class="oi oi-info" onclick="location.href='#About'"><span class="ml-3">About</span></button></li>
+                <li class="mr-4"><button class="oi oi-grid-two-up" onclick="location.href='#Gallery'"><span class="ml-3">Gallery</span></button></li>
+                <li class="mr-4"><button class="oi oi-menu" onclick="location.href='#Menu'"><span class="ml-3">Menu</span></button></li>
+                <li class="mr-4"><button class="oi oi-people" onclick="location.href='#Testomonial'"><span class="ml-3">Testomonial</span></button></li>
+                <li class="mr-4"><button class="oi oi-person" onclick="location.href='#Contact'"><span class="ml-3">Contact</span></button></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+
 
 @code {
     private bool collapseNavMenu = true;

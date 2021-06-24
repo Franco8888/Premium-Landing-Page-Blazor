@@ -82,6 +82,13 @@ using PremLandingPage.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\_Imports.razor"
+using MudBlazor;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class MainPage : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -90,6 +97,21 @@ using PremLandingPage.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 62 "C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\Pages\MainPage.razor"
+       
+    private string myStr = "yeet";
+
+    private string inputVal;
+
+    public void myFunc()
+    {
+
+    }
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591

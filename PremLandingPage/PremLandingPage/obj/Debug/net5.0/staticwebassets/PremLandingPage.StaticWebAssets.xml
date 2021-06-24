@@ -1,4 +1,5 @@
 ﻿<StaticWebAssets Version="1.0">
   <ContentRoot BasePath="/" Path="C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\bin\Debug\net5.0\wwwroot\" />
   <ContentRoot BasePath="/" Path="C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/MudBlazor" Path="C:\Users\Franco\.nuget\packages\mudblazor\5.0.14\build\..\staticwebassets\" />
 </StaticWebAssets>

@@ -1,17 +1,34 @@
 ﻿@inherits LayoutComponentBase
 
-<div class="page">
-    <div class="sidebar">
-        <NavMenu />
-    </div>
+<html lang="en">
 
-    <div class="main">
-        <div class="top-row px-4">
-            <a href="http://blazor.net" target="_blank" class="ml-md-auto">About</a>
-        </div>
+    <head>
+        <meta charset="utf-8">
 
-        <div class="content px-4">
-            @Body
+        <!--    make website responsive-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!--    Google fonts imports-->
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Open+Sans:ital,wght@1,300&display=swap&family=Reggae+One&family=Roboto:wght@300&display=swap" rel="stylesheet">
+
+    </head>
+
+
+    <body>
+        <div class="page">
+            <div>
+                <NavMenu />
+            </div>
+
+            <div class="main">
+                <div class="content px-4">
+                    @Body
+                </div>
+
+            </div>
+
         </div>
-    </div>
-</div>
+    </body>
+
+</html>
