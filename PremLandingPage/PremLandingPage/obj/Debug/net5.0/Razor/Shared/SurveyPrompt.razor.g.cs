@@ -79,13 +79,6 @@ using PremLandingPage.Shared;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 11 "C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\_Imports.razor"
-using MudBlazor;
-
-#line default
-#line hidden
-#nullable disable
     public partial class SurveyPrompt : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

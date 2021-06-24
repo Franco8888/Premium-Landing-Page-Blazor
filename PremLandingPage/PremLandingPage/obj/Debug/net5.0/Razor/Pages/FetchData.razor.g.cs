@@ -79,13 +79,6 @@ using PremLandingPage.Shared;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 11 "C:\Users\Franco\Documents\GitHub\Premium Landing Page Blazor\PremLandingPage\PremLandingPage\_Imports.razor"
-using MudBlazor;
-
-#line default
-#line hidden
-#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/fetchdata")]
     public partial class FetchData : Microsoft.AspNetCore.Components.ComponentBase
     {

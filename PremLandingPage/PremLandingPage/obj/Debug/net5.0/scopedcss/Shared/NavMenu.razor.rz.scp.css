@@ -32,7 +32,7 @@ span[b-0z8r4o1nwf] {
 }
 
 button[b-0z8r4o1nwf] {
-    background-color: rgb(43 43 43);
+    background-color: rgb(68 68 68);
     width: 160px;
     height: 50px;
     border-radius: 5px;
@@ -40,5 +40,5 @@ button[b-0z8r4o1nwf] {
 }
 
 button:hover[b-0z8r4o1nwf] {
-    background-color: rgb(64 64 64);
+    background-color: rgb(80 80 80);
 }
